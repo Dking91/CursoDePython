@@ -1,5 +1,15 @@
 a = input ( 'Digite algo: ')
 
+print(' ')
+
+print('O tipo primitivo dessa variavel é: ', type(a))
+
+print(' ')
+
+print('Existem outras possibilidades? ')
+
+print(' ')
+
 print('numerico ', a.isnumeric())
 print('alfabeto ', a.isalpha())
 print('alfa numerico', a.isalnum())
