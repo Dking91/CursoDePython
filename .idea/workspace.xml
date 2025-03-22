@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c82d64c-3e28-4f17-9028-c51d07202fd3" name="Changes" comment="Novo print">
+    <list default="true" id="0c82d64c-3e28-4f17-9028-c51d07202fd3" name="Changes" comment="Pode parecer pouco, mas consegui quebrar a cabeça e me superei hoje.">
+      <change afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,20 +40,23 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2ugLjMw8OyJo4yeG6wiRVWu80l3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CursoDePython" />
@@ -237,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742672691223</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Pode parecer pouco, mas consegui quebrar a cabeça e me superei hoje.">
+      <option name="closed" value="true" />
+      <created>1742673026046</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1742673026046</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +298,7 @@
     <MESSAGE value="Mais deletada" />
     <MESSAGE value="Main deletada" />
     <MESSAGE value="Novo print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Novo print" />
+    <MESSAGE value="Pode parecer pouco, mas consegui quebrar a cabeça e me superei hoje." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pode parecer pouco, mas consegui quebrar a cabeça e me superei hoje." />
   </component>
 </project>
