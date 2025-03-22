@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c82d64c-3e28-4f17-9028-c51d07202fd3" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
+    <list default="true" id="0c82d64c-3e28-4f17-9028-c51d07202fd3" name="Changes" comment="91" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -202,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742671437549</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="91">
+      <option name="closed" value="true" />
+      <created>1742671953104</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742671953104</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,7 +257,8 @@
     <MESSAGE value="Testando 2" />
     <MESSAGE value="Novo print" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="91" />
+    <option name="LAST_COMMIT_MESSAGE" value="91" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
