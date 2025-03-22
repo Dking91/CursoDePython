@@ -129,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742669830012</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Testando 2">
+      <option name="closed" value="true" />
+      <created>1742670232465</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742670232465</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Testando 2">
+      <option name="closed" value="true" />
+      <created>1742670414689</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742670414689</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,19 +179,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -183,6 +187,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testando" />
+    <MESSAGE value="novo print" />
     <MESSAGE value="Testando 2" />
     <option name="LAST_COMMIT_MESSAGE" value="Testando 2" />
   </component>
