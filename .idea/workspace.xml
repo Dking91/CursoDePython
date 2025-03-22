@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c82d64c-3e28-4f17-9028-c51d07202fd3" name="Changes" comment="Incluindo o exercicio 002.">
-      <change afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex004.py" afterDir="false" />
+    <list default="true" id="0c82d64c-3e28-4f17-9028-c51d07202fd3" name="Changes" comment="atualização">
+      <change afterPath="$PROJECT_DIR$/Aula07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -261,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742679635319</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Incluindo exercicio 004">
+      <option name="closed" value="true" />
+      <created>1742681711655</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1742681711655</updated>
+    </task>
+    <task id="LOCAL-00022" summary="atualização">
+      <option name="closed" value="true" />
+      <created>1742682384747</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1742682384747</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,6 +326,8 @@
     <MESSAGE value="Novo print" />
     <MESSAGE value="Pode parecer pouco, mas consegui quebrar a cabeça e me superei hoje." />
     <MESSAGE value="Incluindo o exercicio 002." />
-    <option name="LAST_COMMIT_MESSAGE" value="Incluindo o exercicio 002." />
+    <MESSAGE value="Incluindo exercicio 004" />
+    <MESSAGE value="atualização" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização" />
   </component>
 </project>
