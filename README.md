@@ -1,1 +1,1 @@
-Minha primeira experiencia usando o Pycharm com o git hub, espero conseguir dominar essa ferramenta logo.
+Estou gostando da experiencia de aprender Pythom
